@@ -1,0 +1,15 @@
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\bin\Debug\net6.0\aula04 - se.exe
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\bin\Debug\net6.0\aula04 - se.deps.json
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\bin\Debug\net6.0\aula04 - se.runtimeconfig.json
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\bin\Debug\net6.0\aula04 - se.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\bin\Debug\net6.0\aula04 - se.pdb
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.csproj.AssemblyReference.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.AssemblyInfoInputs.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.AssemblyInfo.cs
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.csproj.CoreCompileInputs.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\refint\aula04 - se.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.pdb
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\aula04 - se.genruntimeconfig.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula04 - se\obj\Debug\net6.0\ref\aula04 - se.dll

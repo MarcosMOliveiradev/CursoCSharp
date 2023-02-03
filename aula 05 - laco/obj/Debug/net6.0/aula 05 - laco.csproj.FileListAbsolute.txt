@@ -1,0 +1,15 @@
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\bin\Debug\net6.0\aula 05 - laco.exe
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\bin\Debug\net6.0\aula 05 - laco.deps.json
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\bin\Debug\net6.0\aula 05 - laco.runtimeconfig.json
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\bin\Debug\net6.0\aula 05 - laco.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\bin\Debug\net6.0\aula 05 - laco.pdb
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.csproj.AssemblyReference.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.AssemblyInfoInputs.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.AssemblyInfo.cs
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.csproj.CoreCompileInputs.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\refint\aula 05 - laco.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.pdb
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\aula 05 - laco.genruntimeconfig.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\aula 05 - laco\obj\Debug\net6.0\ref\aula 05 - laco.dll
