@@ -12,8 +12,8 @@ namespace TratandoError
 
         public ContaCorrente(int Agencia, int Numero)
         {
-            Agencia = Agencia;
-            Numero = Numero;
+           // Agencia = Agencia;
+           // Numero = Numero;
 
             try
             {

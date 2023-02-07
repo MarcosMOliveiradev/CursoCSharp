@@ -8,7 +8,7 @@ class Program
 
         double investimento = 1000;
         double juros = 0.005;
-        int mes = 1;
+        //int mes = 1;
 
         // laço while
 

@@ -13,7 +13,7 @@ class Program
 
         double total = numero_1 + numero_2;
 
-        double salario = 3000.13;
+        //double salario = 3000.13;
 
         Console.WriteLine("O total da soma é " + total);
 
