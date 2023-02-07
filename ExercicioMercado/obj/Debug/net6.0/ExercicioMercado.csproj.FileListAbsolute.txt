@@ -1,0 +1,15 @@
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\bin\Debug\net6.0\ExercicioMercado.exe
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\bin\Debug\net6.0\ExercicioMercado.deps.json
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\bin\Debug\net6.0\ExercicioMercado.runtimeconfig.json
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\bin\Debug\net6.0\ExercicioMercado.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\bin\Debug\net6.0\ExercicioMercado.pdb
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.csproj.AssemblyReference.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.AssemblyInfoInputs.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.AssemblyInfo.cs
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.csproj.CoreCompileInputs.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\refint\ExercicioMercado.dll
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.pdb
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ExercicioMercado.genruntimeconfig.cache
+C:\Users\suporte01\Desktop\Desafios\C#\01-aprendendoCSharp\ConsoleApp1\ExercicioMercado\obj\Debug\net6.0\ref\ExercicioMercado.dll
